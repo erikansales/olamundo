@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="ol_senai">Hello World!!</string>
+    <string name="ol_nome">Name</string>
+    <string name="ol_email">E-mail</string>
+    <string name="ol_endereco">Address</string>
+    <string name="ol_telefone">Phone</string>
+    <string name="bt_salvar">Save</string>
+    <string name="ol_codigo">Code</string>
+    <string name="ol_nomeProduto">Product Name</string>
+    <string name="ol_tipoProd">"Product Type "</string>
+    <string name="ol_preco">Price</string>
+    <string name="ol_okProd">OK</string>
+    <string name="tit_cadastro">Register</string>
+</resources>
